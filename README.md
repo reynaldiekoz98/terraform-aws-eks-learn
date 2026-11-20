@@ -1,3 +1,5 @@
+> **Note:** This repository was migrated from my old GitHub account and may need adjustment (e.g. credentials, secrets, variables, CI/CD settings, hardcoded paths or endpoints) before it can be used.
+
 # terraform-aws-eks-learn
 an experimental terraform module for creating aws eks cluster 
 
